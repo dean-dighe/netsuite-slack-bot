@@ -1,10 +1,9 @@
 /*******************************************************************************
  * The following javascript code is created internally
  *
- * Script Name :        [THB] Slack NS Paper Bot
+ * Script Name :        [THB] NetSuite Slack Bot
  * Notes :              Slack NS Paper Bot - Connect NetSuite to Slack
- * Author  :            Dean Dighe - dean.dighe@therabodycorp.com
- * Date    :            Feb 24, 2022
+ * Author  :            Dean Dighe - dean@lasecaintegrations.com
  *
  * @NApiVersion 2.1
  * @NScriptType UserEventScript
